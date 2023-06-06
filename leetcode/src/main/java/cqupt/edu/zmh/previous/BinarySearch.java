@@ -1,6 +1,7 @@
 package cqupt.edu.zmh.previous;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
+
 
 /***
  * 输入: nums = [-1,0,3,5,9,12], target = 9

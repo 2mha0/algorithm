@@ -1,6 +1,6 @@
 package cqupt.edu.zmh.stack;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 public class ImplementQueueUsingStacks {
     @Test

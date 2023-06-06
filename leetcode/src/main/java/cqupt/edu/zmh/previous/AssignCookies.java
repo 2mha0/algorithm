@@ -1,6 +1,5 @@
 package cqupt.edu.zmh.previous;
-
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 
